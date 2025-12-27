@@ -2,7 +2,7 @@
 
 ## OU utilisateur
 
-La capture d’écran montre le compte wilder1  qui est dans le **OU Wilders_students **:
+La capture d’écran montre le compte wilder1  qui est dans le **OU Wilders_students**:
 
 ![](Ressources/OU_utilisateur.png)
 
